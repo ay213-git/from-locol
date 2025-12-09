@@ -19,5 +19,5 @@ const d=()=>{
 confirm("Are you sure?")
 }
 const t=()=>{
-    alert("func t")
+    alert(" t")
 }
