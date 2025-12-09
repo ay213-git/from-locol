@@ -14,9 +14,7 @@ const b=()=>{
 const c=()=>{
     console.log("fun c");
     
-}
-const d=()=>{
-confirm("Are you sure?")
+
 }
 const t=()=>{
     alert(" t")
