@@ -10,6 +10,14 @@ const b=()=>{
     return "5"
   
 }
+
+const c=()=>{
+    console.log("fun c");
+    
+}
+const d=()=>{
+confirm("Are you sure?")
+}
 const e=()=>{
     alert("func e")
 }
