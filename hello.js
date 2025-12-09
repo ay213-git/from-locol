@@ -8,6 +8,6 @@ const c=()=>{
     
 
 }
-const t=()=>{
-    alert(" t")
+const g=()=>{
+    alert(" g")
 }
