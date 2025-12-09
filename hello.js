@@ -18,6 +18,6 @@ const c=()=>{
 const d=()=>{
 confirm("Are you sure?")
 }
-const e=()=>{
-    alert("func e")
+const t=()=>{
+    alert("func t")
 }
