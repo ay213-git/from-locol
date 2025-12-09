@@ -12,7 +12,7 @@ const b=()=>{
 }
 
 const c=()=>{
-    console.log("func c");
+    console.log("fun c");
     
 }
 const d=()=>{
